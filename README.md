@@ -10,7 +10,7 @@ python -m venv .venv
 pip install -r requirements.txt
 ```
 
-Create a local `.env` file (do not commit it):
+Create a local `.env` file:
 
 ```text
 MONGO_URI=mongodb://localhost:27017
